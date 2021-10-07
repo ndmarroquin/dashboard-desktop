@@ -1,0 +1,78 @@
+.login-background{
+    width: 100vw;
+    height: 100vh;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.banner__caja1{
+    max-width: 35rem;
+}
+/**********************/
+.banner__circle2{
+    max-width: 6rem;
+    max-height: 6rem;
+}
+.banner-login h2 {
+    font-size: 5rem;
+}
+.banner-login span {
+    font-size: 2.5rem;
+}
+.banner__year{
+    width: 10rem;
+    height: 3rem;
+    font-size: 1.5rem;
+}
+/************************/
+.banner-login{
+    margin-top: 4rem;
+}
+.Aplications {
+    border-radius: 4rem 4rem 4rem 4rem;
+    width:80rem;
+  /**  padding: 33rem;**/
+    padding: 23rem 35rem;
+   
+}
+/***************************/
+.banner-login img{
+    width: 36rem;
+    margin-top: 5rem;
+}
+.cajas .cajas__hijos{
+    width: 16rem;
+    margin-left: -145rem;
+    margin-top: 16rem;
+    position:absolute;
+}
+.cajas .cajas__hijos12{
+    width: 16rem;
+    margin-left: -105rem;
+    margin-top: 16rem;
+    position:absolute;
+}
+
+/***************************/
+.cajas{
+    min-width: 60rem;
+    top: 20rem;/*altura cajas*/
+}
+.cajas__hijos2{
+    width: 13rem;
+    height: 10rem;
+}
+.cajas__hijos2 img{
+
+    max-width: 2.5rem;
+    margin: 1rem;
+}
+.cajas__hijos2 h3{
+    font-size: 1.4rem;
+}
+/***************/
+.chicos{
+    min-width: 5rem;
+    max-height: auto;
+}
